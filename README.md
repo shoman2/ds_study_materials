@@ -25,3 +25,10 @@
  - 상품을 지급해주는 순위권안에 들어서 TF 후드티 받을예정 :)
  - LGBM을 아주 장시간 오래오래 학습시키는 무모한 짓으로 순위에 듬.
  - 추후 알게된것은 Linear Transformation 테크닉의 하나인 Matrix Rotation을 적용하면 성능이 향상된다더라..
+
+## 7. Python 문법기초 
+  - 파이썬 역사
+  - low level vs high level programming language
+  - 데이터 타입 및 변수
+  - list, tuple, dictionary, set
+  - 
