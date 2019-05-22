@@ -31,4 +31,8 @@
   - low level vs high level programming language
   - 데이터 타입 및 변수
   - list, tuple, dictionary, set
-  - 
+
+## 8. 텍스트분석 기초 정리
+  - 머신러닝 기반 텍스트분석 프로세스 순서
+  - Bag of Word (BoW)
+  - TF-IDF
