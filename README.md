@@ -26,11 +26,15 @@
  - LGBM을 아주 장시간 오래오래 학습시키는 무모한 짓으로 순위에 듬.
  - 추후 알게된것은 Linear Transformation 테크닉의 하나인 Matrix Rotation을 적용하면 성능이 향상된다더라..
 
-## 7. Python 문법기초 
+## 7. Python 문법기초1 
   - 파이썬 역사
   - low level vs high level programming language
   - 데이터 타입 및 변수
   - list, tuple, dictionary, set
+
+## 7.1 Python 문법기초2 
+  - 연산자
+  - 흐름제어
 
 ## 8. 텍스트분석 기초 정리
   - 머신러닝 기반 텍스트분석 프로세스 순서
