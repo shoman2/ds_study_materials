@@ -4,6 +4,7 @@
 ## 2.Kaggle 공부 
  - Porto Seguro’s Safe Driver Prediction 경진대회
  - Metadata 정의 및 데이터프레임화
+ - 캐글은 어렵다..
 
 ## 3.Kaggle 공부
  - Bike Sharing Demand 경진대회
